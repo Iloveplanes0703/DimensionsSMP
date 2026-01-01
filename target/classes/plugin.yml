@@ -1,0 +1,10 @@
+name: DimensionTP
+version: 1.0
+main: com.example.dimensiontp.DimensionTP
+api-version: '1.16'
+author: You
+
+commands:
+  dimension:
+    description: Teleport to a dimension
+    usage: /dimension <overworld|nether|end>
