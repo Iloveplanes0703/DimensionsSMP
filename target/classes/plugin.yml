@@ -1,6 +1,6 @@
 name: DimensionTP
 version: 1.0
-main: com.example.dimensiontp.DimensionTP
+main: me.dimensionssmp.DimensionTP
 api-version: '1.16'
 author: You
 
